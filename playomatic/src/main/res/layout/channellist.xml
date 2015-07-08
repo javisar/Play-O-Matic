@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+<LinearLayout android:id="@+id/listPlaylist"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent" android:orientation="vertical">    
+	<!-- 
+  <TextView android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="You Entered..."
+            android:textSize="25dip"
+            android:gravity="center"
+            android:layout_margin="15dip"/>
+ 
+  <TextView android:id="@+id/txtName"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="15dip"
+            android:textSize="18dip"/>
+ 
+  <TextView android:id="@+id/txtEmail"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="15dip"
+            android:textSize="18dip"/>
+ 
+  <Button android:id="@+id/btnClose"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dip"
+            android:text="Close"/>
+ -->
+</LinearLayout>
+</ScrollView>

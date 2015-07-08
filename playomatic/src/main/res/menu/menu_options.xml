@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/reverse_order"
+          android:title="@string/reverse_order"/>
+     <item android:id="@+id/uploads_playlist"
+          android:title="@string/uploads_playlist"/>    
+     <item android:id="@+id/toggle_quality"
+          android:title="@string/toggle_quality"/>
+     <item android:id="@+id/tag_order"
+          android:title="@string/tag_order"/>        
+     <item android:id="@+id/alphabetic_order"
+          android:title="@string/alphabetic_order"/>
+    <item android:id="@+id/toggle_player"
+        android:title="@string/toggle_player"/>
+</menu>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Welcome to Playomatic</string>
+    <string name="app_name">Playomatic</string>
+    <string name="youtubevideoid">YouTube Video ID</string>
+    <string name="viewVideoButton">View</string>
+    <string name="reverse_order">Reverse Order</string>
+    <string name="uploads_playlist">Toggle Uploads/Playlist</string>
+    <string name="toggle_quality">Toggle Quality</string>
+    <string name="toggle_player">Toggle Player</string>
+    <string name="tag_order">Tag Order</string>
+    <string name="alphabetic_order">A-Z Order</string>
+</resources>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+<LinearLayout android:id="@+id/listChannellist"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent" android:orientation="vertical">
+  	<!-- 
+    <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:id="@+id/linearLayout2">
+        <TextView android:text="@string/youtubevideoid" android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/youtubeIdLabel"></TextView>
+    </LinearLayout>
+    <EditText android:layout_width="fill_parent" android:layout_height="wrap_content" android:id="@+id/youtubeIdText" android:text="@string/defaultYoutubeVideoId"></EditText>
+    <LinearLayout android:layout_width="fill_parent" android:id="@+id/linearLayout3" android:layout_height="wrap_content" android:layout_marginTop="10dip"></LinearLayout>
+    <Button android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/viewVideoButton" android:id="@+id/viewVideoButton"></Button>
+     -->
+     <!--
+    <Button
+        android:id="@+id/playlist1Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/playlist1Button" />
+
+    <Button
+        android:id="@+id/playlist2Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/playlist2Button" />
+    <Button
+        android:id="@+id/playlist3Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/playlist3Button" />
+    <Button
+        android:id="@+id/playlist4Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/playlist4Button" />
+    <Button
+        android:id="@+id/playlist5Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/playlist5Button" />
+    <Button
+        android:id="@+id/playlist6Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/playlist6Button" />
+    <Button
+        android:id="@+id/playlist7Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/playlist7Button" />
+    <Button
+        android:id="@+id/playlist8Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/playlist8Button" />
+    <Button
+        android:id="@+id/playlist9Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/playlist9Button" />
+    <Button
+        android:id="@+id/playlist10Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/playlist10Button" />
+    <Button
+        android:id="@+id/playlist11Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/playlist11Button" />
+    <Button
+        android:id="@+id/playlist12Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/playlist12Button" />
+    <Button
+        android:id="@+id/playlist13Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/playlist13Button" />
+    <Button
+        android:id="@+id/playlist14Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/playlist14Button" />
+    <Button
+        android:id="@+id/playlist15Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/playlist15Button" />
+    <Button
+        android:id="@+id/playlist16Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/playlist16Button" />
+    <Button
+        android:id="@+id/playlist17Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/playlist17Button" />
+    <Button
+        android:id="@+id/playlist18Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/playlist18Button" />
+    <Button
+        android:id="@+id/playlist19Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/playlist19Button" />
+    <Button
+        android:id="@+id/playlist20Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/playlist20Button" />
+    -->
+    <!-- <LinearLayout android:layout_width="wrap_content" android:layout_height="fill_parent" android:id="@+id/linearLayout1"></LinearLayout> -->
+</LinearLayout>
+</ScrollView>
